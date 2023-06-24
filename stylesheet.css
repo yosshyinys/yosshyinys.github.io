@@ -268,16 +268,3 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
-}
-
-.box {
-  margin     : auto;
-  max-width  : 500px;
-  height     : 200px;
-                                      /* ドット（水玉）模様のCSS */
-  background-color   : #ffffff;
-  background-image   : radial-gradient(#000000 29%, transparent 29%),
-                       radial-gradient(#000000 29%, transparent 29%);
-  background-position: 0 0, 7px 7px;
-  background-size    : 14px 14px;
-}
